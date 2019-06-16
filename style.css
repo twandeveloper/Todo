@@ -12,3 +12,15 @@
 .addInput{
     margin: 25px auto;
 }
+
+#todoList{
+    width: 250px;
+    margin: 10px auto;
+}
+
+li{
+    background: #6c98dd;
+    margin: 15px;
+    padding: 3px;
+    text-align: center;
+}
